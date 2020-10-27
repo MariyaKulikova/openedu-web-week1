@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "miki-ha"
+      "X-Author": "miki-ha",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
